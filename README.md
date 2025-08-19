@@ -105,3 +105,7 @@ Open the provided local URL in your browser to access the dashboard.
 - For best results, run the API and dashboard simultaneously.
 
 ---
+
+<img width="1867" height="812" alt="image" src="https://github.com/user-attachments/assets/d069585f-bb38-49b2-bfd9-1599e30702ff" />
+<img width="1872" height="513" alt="image" src="https://github.com/user-attachments/assets/da73af44-a7da-4695-b726-8d074db3fc93" />
+<img width="1813" height="546" alt="image" src="https://github.com/user-attachments/assets/99cee8d1-d738-49d8-a9d8-bfde831b3941" />
